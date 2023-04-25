@@ -1,0 +1,49 @@
+body{
+    background-image: url(1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+}
+
+
+
+
+/*-------------------------------------------------------------------------------------------------------------*/
+.form{
+    font-family:'Popins',sans-serif ;
+    display: flex;
+    height: 300px;
+    padding: 20%;
+}
+.form1{
+    width: 360px;
+    background: #000;
+    opacity: 0.6;
+    border-radius: 10px;
+    margin-top: 50px;
+}
+form{
+    width: 100%;
+    text-align: center;
+}
+form input{
+    margin: 4px 0;
+    height: 30px;
+    width: 95%;
+    border-radius: 3px;
+    background: #181717;
+    text-align: center;
+    border: 1px 5c5c5c solid;
+    font-size: 15px;
+    color: white;
+}
+form button{
+    margin-top: 20px;
+    border: none;
+    background: #00fff0;
+    width: 50%;
+    padding: 10px 0;
+    border-radius: 4px;
+    color: #222;
+}
